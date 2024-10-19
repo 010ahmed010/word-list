@@ -2,7 +2,6 @@ administrator-panel
 administratopanel
 administratorPanel
 panel-administrator
-
 .bash_history
 .bashrc
 .cache
